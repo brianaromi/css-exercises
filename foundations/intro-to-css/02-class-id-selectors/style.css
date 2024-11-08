@@ -1,9 +1,14 @@
 .test-class {
-    background-color: rgba(255, 0, 0, 0.3);}
+    background-color: rgba(255, 0, 0, 0.3);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;}
 
-#title {
-    color: blue;
-    font-size: 36px;
+.adjust-font {
+    font-size: 24px}
 
-    
-}
+#second {
+        color: blue;
+        font-size: 36px;}
+
+#fourth {
+    background-color: rgba(5, 255, 0, 0.3);
+    font-weight: 700;}
